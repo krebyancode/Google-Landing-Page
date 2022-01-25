@@ -1,4 +1,4 @@
 # Google-Landing-Page
-HTML, CSS
+Google Landing Page with HTML, CSS
 
 https://krebyancode.github.io/Google-Landing-Page/
